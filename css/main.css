@@ -1,9 +1,10 @@
-@import	url("fonts.css");
+﻿@import	url("fonts.css");
 /*
 	*MAIN
 */
 body{
 	font-size: 100%;
+	background: red;
 }
 .wrapper{
 	margin: 0 auto;
